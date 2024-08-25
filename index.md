@@ -1,5 +1,4 @@
 # Paula's First CS192 Homework
-
 ```
 
 ˗ˏˋ Favorite things about CS193 ´ˎ˗
