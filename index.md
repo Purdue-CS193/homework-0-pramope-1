@@ -1,6 +1,6 @@
 # Paula's First CS192 Homework
 
-```markdown
+```
 
 ˗ˏˋ Favorite things about CS193 ´ˎ˗
 
